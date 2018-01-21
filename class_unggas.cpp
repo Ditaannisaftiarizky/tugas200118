@@ -24,5 +24,13 @@ int main (){
 	belibislaki.renang="harat banar bakunyung ";
 	belibisbini.renang="harat banar bakunyung ";
 	
+	cout <<"Ciri-ciri ayam laki: \n\n";
+	cout <<(ayamlaki.renang);
+	ayamlaki.suara("kukuruyuk");
+	ayamlaki.terbang("kada kawa tinggi ");
+	ayamlaki.ukuranTelur("laki kada bahintalu");
+	ayamlaki.jumlahTelur(0);
+	cout <<"_______________________________\n\n";
+	
 	
 }
