@@ -33,4 +33,14 @@ int main (){
 	cout <<"_______________________________\n\n";
 	
 	
+	cout <<"Ciri-ciri ayam bini: \n\n";
+	cout <<(ayambini.renang);
+	ayambini.suara("kutakkutak");
+	ayambini.terbang("kada kawa tinggi ");
+	ayambini.ukuranTelur("sadang");
+	ayambini.jumlahTelur(15);
+	cout <<"_______________________________\n\n";
+	
+	
+	
 }
