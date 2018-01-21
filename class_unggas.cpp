@@ -49,5 +49,13 @@ int main (){
 	itiklaki.jumlahTelur(0);
 	cout <<"_______________________________\n\n";
 	
+	cout <<"Ciri-ciri itik bini: \n\n";
+	cout <<(itikbini.renang);
+	itikbini.suara("gakgakgak");
+	itikbini.terbang("harat jua ");
+	itikbini.ukuranTelur("ganal pada ayam");
+	itikbini.jumlahTelur(22);
+	cout <<"_______________________________\n\n";
+	
 	
 }
