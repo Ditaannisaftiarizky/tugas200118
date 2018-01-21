@@ -65,5 +65,14 @@ int main (){
 	angsalaki.jumlahTelur(0);
 	cout <<"_______________________________\n\n";
 	
+	cout <<"Ciri-ciri angsa bini: \n\n";
+	cout <<(angsabini.renang);
+	angsabini.suara("nyaakkk");
+	angsabini.terbang("sadang haja ");
+	angsabini.ukuranTelur("ganal banar");
+	angsabini.jumlahTelur(10);
+	cout <<"_______________________________\n\n";
+	
+	
 	
 }
