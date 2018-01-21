@@ -57,5 +57,13 @@ int main (){
 	itikbini.jumlahTelur(22);
 	cout <<"_______________________________\n\n";
 	
+		cout <<"Ciri-ciri angsa laki: \n\n";
+	cout <<(angsalaki.renang);
+	angsalaki.suara("nyuukkk");
+	angsalaki.terbang("sadang haja ");
+	angsalaki.ukuranTelur("laki kada bahintalu");
+	angsalaki.jumlahTelur(0);
+	cout <<"_______________________________\n\n";
+	
 	
 }
