@@ -14,9 +14,9 @@ int main (){
 	lipstik wardah,makeover,purbasari,nabi;
 	
 	wardah.teksture ="Matte";
-	makeover.teksture ="cair";
-	purbasari.teksture ="lembut";
-	nabi.teksture ="cair";
+	makeover.teksture ="lipcream";
+	purbasari.teksture ="Original";
+	nabi.teksture ="Matte";
 	
 	cout << "Lipstik Wardah" ;
 	cout <<(wardah.teksture);
