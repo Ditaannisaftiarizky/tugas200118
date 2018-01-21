@@ -81,6 +81,13 @@ int main (){
 	puyuhlaki.jumlahTelur(0);
 	cout <<"_______________________________\n\n";
 	
+	cout <<"Ciri-ciri puyuh bini: \n\n";
+	cout <<(puyuhbini.renang);
+	puyuhbini.suara("wruuhhh");
+	puyuhbini.terbang("kada bisa ");
+	puyuhbini.ukuranTelur("halus");
+	puyuhbini.jumlahTelur(30);
+	cout <<"_______________________________\n\n";
 	
 	
 }
