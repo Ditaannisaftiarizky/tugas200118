@@ -97,5 +97,13 @@ int main (){
 	belibislaki.jumlahTelur(0);
 	cout <<"_______________________________\n\n";
 	
+	cout <<"Ciri-ciri belibis bini: \n\n";
+	cout <<(belibisbini.renang);
+	belibisbini.suara("ckaaakkk");
+	belibisbini.terbang("tinggi banar ");
+	belibisbini.ukuranTelur("sadang");
+	belibisbini.jumlahTelur(6);
+	cout <<"_______________________________\n\n";
+	
 	
 }
