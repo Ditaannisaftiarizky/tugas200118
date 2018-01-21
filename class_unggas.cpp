@@ -89,5 +89,13 @@ int main (){
 	puyuhbini.jumlahTelur(30);
 	cout <<"_______________________________\n\n";
 	
+		cout <<"Ciri-ciri belibis laki: \n\n";
+	cout <<(belibislaki.renang);
+	belibislaki.suara("ckakckak");
+	belibislaki.terbang("tinggi banar ");
+	belibislaki.ukuranTelur("laki kada bahintalu");
+	belibislaki.jumlahTelur(0);
+	cout <<"_______________________________\n\n";
+	
 	
 }
