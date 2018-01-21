@@ -105,5 +105,16 @@ int main (){
 	belibisbini.jumlahTelur(6);
 	cout <<"_______________________________\n\n";
 	
-	
+}
+void unggas::suara(string bunyi){
+	cout <<"\nbunyinya "<<bunyi<<endl;
+}
+int unggas::terbang(string sayap){
+	cout <<"terbang "<<sayap<<endl;
+}
+void unggas::ukuranTelur(string ukuran){
+	cout <<"hintalunya: "<<ukuran<<endl;
+}
+void unggas::jumlahTelur(int jumlah){
+	cout <<"bahintalu "<<jumlah<<" butir"<<endl;
 }
